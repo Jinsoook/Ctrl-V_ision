@@ -12,6 +12,7 @@
 ### 📖 Resources
 - [Tensor 정리](pytorch/resources/tensor.md)
 
+[AIM 파이토치 12주차 교육 커리큘럼](https://github.com/Jinsoook/pytorch_study)
 ---
 
 ## 🐟 밑바닥부터 시작하는 딥러닝1
