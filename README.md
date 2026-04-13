@@ -1,4 +1,4 @@
-# 📚 AI Study Log
+# 📚 Ctrl+V_ision Study Log
 
 컴퓨터 비전 & PyTorch 공부 기록 저장소
 
@@ -11,6 +11,10 @@
 
 ### 📖 Resources
 - [Tensor 정리](pytorch/resources/tensor.md)
+
+---
+
+## 🐟 밑바닥부터 시작하는 딥러닝1
 
 ---
 
