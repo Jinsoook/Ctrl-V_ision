@@ -13,9 +13,11 @@
 - [Tensor 정리](pytorch/resources/tensor.md)
 
 [AIM 파이토치 12주차 교육 커리큘럼](https://github.com/Jinsoook/pytorch_study)
+
 ---
 
 ## 🐟 밑바닥부터 시작하는 딥러닝1
+- [밑바닥부터 시작하는 머신러닝1](Machinelearning)
 
 ---
 
@@ -30,5 +32,5 @@
 ---
 
 ## 🖼 Images
-- 실험 결과 및 구조도 저장 폴더
+- 활동사진 및 실습화면 스크린샷 저장 폴더
 
